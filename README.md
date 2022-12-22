@@ -14,8 +14,8 @@
 ### BE : [서보성](https://github.com/teabear12), [서재석](https://github.com/suhjaesuk), [오호진](https://github.com/1Tsw0rd), [황보석](https://github.com/seok6086)
 
 ## GitHub 주소
-### FE :
-### BE :
+### FE : https://github.com/Pablaw/alertFE
+### BE : https://github.com/teabear12/hanhhae99-alert
 
 ## ✅Stack
 ### FE: 
