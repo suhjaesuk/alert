@@ -13,7 +13,7 @@
 ### FE : [이원문](https://github.com/dnjsans), [이철화](https://github.com/Pablaw)
 ### BE : [서보성](https://github.com/teabear12), [서재석](https://github.com/suhjaesuk), [오호진](https://github.com/1Tsw0rd), [황보석](https://github.com/seok6086)
 
-## <img src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
+## <img src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white">주소
 ### FE : https://github.com/Pablaw/alertFE
 ### BE : https://github.com/teabear12/hanhhae99-alert
 
