@@ -3,15 +3,14 @@
 
 - 일정 등록, 수정, 삭제 기능
 - 마감일자가 다가오면 붉은 테두리로 변함
-- 보기 편안한 디자인
+- 마감 시간이 지난 일정은 별도 구역으로 분리
+- 로그인 사용자에게만 해당 일정 노출
+- JWT 토큰과 쿠키를 사용한 로그인 기능
 
 ## 👨‍👨‍👧‍👦팀원
 ### FE : [이원문](https://github.com/dnjsans), [이철화](https://github.com/Pablaw)
 ### BE : [서보성](https://github.com/teabear12), [서재석](https://github.com/suhjaesuk), [오호진](https://github.com/1Tsw0rd), [황보석](https://github.com/seok6086)
 
-## ✅주요 기능
-- **일정등록, 조회, 수정, 삭제**
-- **시간 별 일정 색상 이미지 변화**
 
 ## ✅Stack
 ### FE: 
@@ -22,7 +21,7 @@
 
 ## 📌Trouble Shooting
 
-### CORS preflight OPTIONS 메소드 문제
+### 1.CORS preflight OPTIONS 메소드 문제
 - SpringSecurity에서 허용한 Method : GET, POST, PATCH, DELETE
 - 최초 Front와 Back 간 통신 중 이러한 SpringSecurity 정책 문제로 Front의 요청을 Block처리함
 - 확인 결과 CORS preflight 통신 시, 사전에 OPTIONS 메소드 사용하여 예비통신이 먼저 진행되는데,
