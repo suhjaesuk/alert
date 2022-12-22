@@ -7,10 +7,15 @@
 - 로그인 사용자에게만 해당 일정 노출
 - JWT 토큰과 쿠키를 사용한 로그인 기능
 
+
+
 ## 👨‍👨‍👧‍👦팀원
 ### FE : [이원문](https://github.com/dnjsans), [이철화](https://github.com/Pablaw)
 ### BE : [서보성](https://github.com/teabear12), [서재석](https://github.com/suhjaesuk), [오호진](https://github.com/1Tsw0rd), [황보석](https://github.com/seok6086)
 
+## GitHub 주소
+### FE :
+### BE :
 
 ## ✅Stack
 ### FE: 
