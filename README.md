@@ -7,9 +7,8 @@
 
 ## 👨‍👨‍👧‍👦팀원
 ### FE
-- [이원문]()
-- [이철화]()
-
+- [이원문](https://github.com/dnjsans)
+- [이철화](https://github.com/Pablaw)
 ### BE
 - [서보성](https://github.com/teabear12)
 - [서재석](https://github.com/suhjaesuk)
@@ -17,9 +16,8 @@
 - [황보석](https://github.com/seok6086)
 
 ## ✅주요 기능
-
-1. **일정등록, 조회, 수정, 삭제**
-2. **시간 별 일정 색상 이미지 변화**
+- **일정등록, 조회, 수정, 삭제**
+- **시간 별 일정 색상 이미지 변화**
 
 ## ✅Stack
 ### FE
@@ -31,6 +29,9 @@
 <img src="https://img.shields.io/badge/Amazon EC2-yellow?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-yellow?style=for-the-badge&logo=Amazon S3&logoColor=white">
 
 ## 📌Trouble Shooting
+### FE
+
+### BE
 **CORS preflight OPTIONS 메소드 문제**
 - SpringSecurity에서 허용한 Method : GET, POST, PATCH, DELETE
 - 최초 Front와 Back 간 통신 중 이러한 SpringSecurity 정책 문제로 Front의 요청을 Block처리함
