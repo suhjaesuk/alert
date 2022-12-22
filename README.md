@@ -6,14 +6,8 @@
 - 보기 편안한 디자인
 
 ## 👨‍👨‍👧‍👦팀원
-### FE
-- [이원문](https://github.com/dnjsans)
-- [이철화](https://github.com/Pablaw)
-### BE
-- [서보성](https://github.com/teabear12)
-- [서재석](https://github.com/suhjaesuk)
-- [오호진](https://github.com/1Tsw0rd)
-- [황보석](https://github.com/seok6086)
+### FE : [이원문](https://github.com/dnjsans), [이철화](https://github.com/Pablaw)
+### BE : [서보성](https://github.com/teabear12), [서재석](https://github.com/suhjaesuk), [오호진](https://github.com/1Tsw0rd), [황보석](https://github.com/seok6086)
 
 ## ✅주요 기능
 - **일정등록, 조회, 수정, 삭제**
