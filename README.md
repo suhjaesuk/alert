@@ -24,7 +24,7 @@
 ### FE
 
 ### BE
-**CORS preflight OPTIONS 메소드 문제**
+**✅CORS preflight OPTIONS 메소드 문제**
 - SpringSecurity에서 허용한 Method : GET, POST, PATCH, DELETE
 - 최초 Front와 Back 간 통신 중 이러한 SpringSecurity 정책 문제로 Front의 요청을 Block처리함
 - 확인 결과 CORS preflight 통신 시, 사전에 OPTIONS 메소드 사용하여 예비통신이 먼저 진행되는데,
