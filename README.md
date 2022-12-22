@@ -48,5 +48,8 @@
 - 추측으로 리액트의 비동기작업 때문이라고 생각을 했고 setTimeout 함수를 이용해 데이터요청에 interval 을 주어 해결
 
 ## ✨시연 이미지
+![시연 이미지](https://user-images.githubusercontent.com/110963294/209093332-43e99b74-4911-4f30-aaa8-5ab122348d53.png)
+
+
 ![시연](https://user-images.githubusercontent.com/110963294/209093060-c2ca2a8d-e919-4197-8aee-785d30d36799.png)
 
